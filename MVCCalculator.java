@@ -1,3 +1,6 @@
+/*Shekhar Kumar
+ * Main Class
+ */
 public class MVCCalculator {
 	public static void main(String[] args) {
 		calculatorView theView = new calculatorView();
