@@ -1,3 +1,6 @@
+/* Shekhar Kumar
+ * Model Class
+ */
 public class calculatorModel {
 
 	private int calculationValue;
